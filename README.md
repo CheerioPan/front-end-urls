@@ -16,6 +16,8 @@
 - [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/) by 阿树
 - [You Don't Need jQuery!](http://blog.garstasio.com/you-dont-need-jquery/) by Ray Nicholus
 - [ECMAScript 5.1（中文版）](http://lzw.me/pages/ecmascript/) by 志文工作室
+- [JavaScript 参考文档](https://developer.mozilla.org/en-US/docs/Web/JavaScript) by MDN
+- [JavaScript 参考文档（中文版）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) by MDN
 
 ## Booklist
 
